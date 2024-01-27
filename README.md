@@ -10,14 +10,6 @@ In this data analysis project, we'll dive into the "Airline Reporting Carrier On
 
 ## Project Goals
 
-1. Spotting Punctual and Late Airlines
+1. Generate an insight of the dataset, try to understand the main cause of flight delayed in order to anticipate them.
 
-Check the data to see which airlines are usually on time and which ones often have delays
-
-2. Airport Delay Investigation
-
-Find out which airports have the least and most delayed flights.
-
-3. Getting to the Bottom of Delays
-
-Explore the main reasons behind flight delays, like bad weather, air traffic problems, or plane issues
+2. Generate a model of machine learning in order to calculate the delay a flight will encounter (in generation)
